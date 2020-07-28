@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 4EF1-9689
+
+ Directory of C:\Downloads\Githubproject
+
+07/27/2020  07:31 PM    <DIR>          .
+07/27/2020  07:31 PM    <DIR>          ..
+07/27/2020  07:31 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  733,588,914,176 bytes free
