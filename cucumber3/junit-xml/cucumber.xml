@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="19.382246">
+<testcase classname="Free CRM Login Feature" name="Cogmento CRM Login Test Scenario" time="10.530295">
+<system-out><![CDATA[Given user is already on Login Page.........................................passed
+When title of login page is Cogmento CRM....................................passed
+Then user enters "naveenk" and "test@123"...................................passed
+Then user clicks on login button............................................passed
+Then Close the browser......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Free CRM Login Feature" name="Cogmento CRM Login Test Scenario 2" time="8.851951">
+<system-out><![CDATA[Given user is already on Login Page.........................................passed
+When title of login page is Cogmento CRM....................................passed
+Then user enters "tom" and "test@456".......................................passed
+Then user clicks on login button............................................passed
+Then Close the browser......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
